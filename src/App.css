@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+/* src/App.css */
+.full-height {
+  height: 150px;
+}
+
+.carousel-item img {
+  object-fit: cover;
+  height: 100%;
+}
